@@ -1,4 +1,4 @@
-#Dipayan Saha 71 BA Sec2
+#Dipayan Saha  71  Sec-2
 attach(houseprices)
 
 #Finding mean and Neighborhood wise:
