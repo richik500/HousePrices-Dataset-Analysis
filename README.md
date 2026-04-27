@@ -1,7 +1,7 @@
 # House Price Data Analysis in R
 This repository contains a complete statistical analysis project on house price data using R and RStudio. The project explores pricing trends, customer insights, promoter strategies, and housing characteristics through data visualization and hypothesis testing.
 
-## Project Objective 
+## Project Objective
 To analyze house prices based on multiple factors such as:
 - Neighborhood
 - Square Feet (SqFt)
